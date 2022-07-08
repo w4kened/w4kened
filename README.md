@@ -4,7 +4,7 @@ Hi 👋 My name is Pavlo
 CS student | coder
 ------------------
 
-OpenSource & Linux lover. I've been learning to code for 3 years.
+22 years old. OpenSource & Linux lover. I've been learning to code for 3 years.
 I started with C, after that i've coded in Java, also I know some basics of JS and Python.
 * 🌍  I'm based in Kielce
 * ✉️  You can contact me at [w4kened@mailfence.com](mailto:w4kened@mailfence.com)
