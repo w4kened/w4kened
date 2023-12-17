@@ -23,11 +23,9 @@ src="https://img.shields.io/github/followers/w4kened?logo=github&style=for-the-b
 ### Badges
 
 <b>My GitHub Stats</b>
-<a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=w4kened&repo=github-readme-stats&theme=radical" />
-</a>
 
-<a href="https://github.com/HwangTaehyun/github-contributor-stats">![W4kened's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=w4kened&combine_all_yearly_contributions=true&hide=B,B+&theme=radical)</a>
+
+<a href="https://github.com/w4kened/github-contributor-stats">![W4kened's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=w4kened&combine_all_yearly_contributions=true&hide=B,B+&theme=radical)</a>
 
 
 
