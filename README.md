@@ -8,9 +8,8 @@ CS student | coder
 I started with C/C++, after that i've coded in Java, also I know some basics of JS.
 * 🌍  I'm based in Kielce
 * ✉️  You can contact me at [w4kened@mailfence.com](mailto:w4kened@mailfence.com)
-* 🧠  I'm learning Java & Spring Framework & JS
-* 🤝  I'm open to collaborating on web GIS Application
-* ⚡  Typical bug creator & solver
+* 🧠  Working on Java & Spring Framework & JS
+
 
 <a href="https://www.github.com/w4kened" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/w4kened?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
