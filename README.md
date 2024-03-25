@@ -3,10 +3,9 @@ Hi 👋 My name is Pavlo
 
 CS student | coder
 ------------------
-I am a graduate of the Kielce University of Technology, with a major in computer science.
-I offer solid skills in programming and web development and committed to continuous improvement.
-In addition to programming knowledge, I oﬀer soft skills such as discipline, willingness to develop, and teamwork skills,
-along with high work organization.
+I am a graduate of the Kielce University of Technology, with a major in computer science.  
+I offer solid skills in programming and web development and committed to continuous improvement.  
+Every day i doing my best and trying to be best version of myself.
 
 * 🌍  I'm based in Kielce
 * 🧠  Working on Java & Spring Framework & JS
