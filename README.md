@@ -3,11 +3,12 @@ Hi 👋 My name is Pavlo
 
 CS student | coder
 ------------------
+I am a graduate of the Kielce University of Technology, with a major in computer science.
+I offer solid skills in programming and web development and committed to continuous improvement.
+In addition to programming knowledge, I oﬀer soft skills such as discipline, willingness to develop, and teamwork skills,
+along with high work organization.
 
-23 years old. I've been learning coding since 2k18.
-I started with C/C++, after that i've coded in Java, also I know some basics of JS.
 * 🌍  I'm based in Kielce
-* ✉️  You can contact me at [w4kened@mailfence.com](mailto:w4kened@mailfence.com)
 * 🧠  Working on Java & Spring Framework & JS
 
 
