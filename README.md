@@ -1,7 +1,6 @@
 Hi 👋 My name is Pavlo 
 ============================
-
-CS student | coder
+Engineer & Coder
 ------------------
 I am a graduate of the Kielce University of Technology, with a major in computer science.  
 I offer solid skills in programming and web development and committed to continuous improvement.  
